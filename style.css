@@ -1,15 +1,31 @@
+
+h1{
+  text-shadow: 5px 5px rgb(67, 69, 87);  
+}
+
 h1
 {
-  color:rgb(186, 181, 255);text-indent: 500px; font:bold size;200px:
+  color:rgb(186, 181, 255);text-indent: 500px; font:bolder 
+  
 }
 
 p
 {
-    text: indent 30px;
+    text-indent: 30px;
+    font-style: italic;
 }
 
 .web-color
 {
-    background-color: #717081 ;
-    color:whitesmoke
+    background-color: #444569 ;
+    color:rgb(178, 182, 224)
+}
+
+body
+{
+  font-family:  'Arial Narrow Bold', sans-serif;
+}
+h3{
+  text-indent: 500px; 
+  font-style:italic 
 }
