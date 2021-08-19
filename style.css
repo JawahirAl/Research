@@ -1,14 +1,16 @@
 
 h1{
-  text-shadow: 5px 5px rgb(67, 69, 87);  
+  text-shadow: 5px 5px rgb(0, 0, 0);  
 }
 
 h1
 {
-  color:rgb(186, 181, 255);text-indent: 500px; font:bolder 
+  color:rgb(92, 189, 235);text-indent: 250px; font:bolder 
   
 }
-
+h1{
+  font-size: 70px;
+}
 p
 {
     text-indent: 30px;
@@ -17,15 +19,26 @@ p
 
 .web-color
 {
-    background-color: #444569 ;
-    color:rgb(178, 182, 224)
+    background-color: #000933 ;
+    color:rgb(198, 198, 240)
 }
 
 body
 {
-  font-family:  'Arial Narrow Bold', sans-serif;
+  font-family: 'Courier New', monospace;
+ text-align:left;
 }
 h3{
   text-indent: 500px; 
   font-style:italic 
+}
+
+
+img {
+  border-radius: 8px; border: 10px solid rgb(92, 189, 235)
+  
+}
+.banner
+{
+  background-image: url(https://cdn.wallpapersafari.com/16/98/a5RSbA.jpg); border: 10px solid rgb(92, 189, 235);
 }
