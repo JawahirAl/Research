@@ -5,7 +5,7 @@ h1{
 
 h1
 {
-  color:rgb(92, 189, 235);text-indent: 250px; font:bolder 
+  color:rgb(92, 189, 235);text-indent: 220px; font:bolder 
   
 }
 h1{
@@ -29,16 +29,26 @@ body
  text-align:left;
 }
 h3{
-  text-indent: 500px; 
-  font-style:italic 
+  text-indent: 400px; 
+  text-shadow: 5px 5px rgb(0, 0, 0); 
+  
+}
+.blue-background
+{
+  background-color: #000933 ;
+  color:rgb(207, 231, 241)
 }
 
-
 img {
-  border-radius: 8px; border: 10px solid rgb(92, 189, 235)
-  
+  border-radius: 8px; border: 10px solid rgb(31, 6, 100)
+}
+
+img
+{
+width:500px
 }
 .banner
 {
   background-image: url(https://cdn.wallpapersafari.com/16/98/a5RSbA.jpg); border: 10px solid rgb(92, 189, 235);
 }
+
